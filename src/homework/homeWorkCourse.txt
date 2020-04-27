@@ -1,0 +1,31 @@
+Detyra 1) ***HINT (per me e kqyr ni fjal a permban ni fjal tjeter perdoret metoda e stringut ".contains(String fjala)"
+
+?	Shkruani klasën NumeroRreshtat që e kryen funksionin më poshtë
+Në metodën main
+a)	Duke përdorë do while loop të kërkohet nga shfrytëzuesi të shtyp tekst deri sa nuk  shtypet teksti the end (case sensitive) që është sentinel, terminon unazën (loop) dhe nuk hyn në kalkulim.
+VINI RE: Nuk pranohet përdorimi i komandës break për terminim të loop
+b)	Në fund të shfaqet numri i të gjitha fjalive të shtypura si dhe të atyre që kanë së paku dy (2) fjalë që përmbajnë tekstin end (case insensitive) në rresht.
+
+Rezultati të shfaqet si më poshtë:
+Ne total jane shtypur <total> fjali dhe <nr_fjali> prej tyre plotesojne kushtin
+Ose nëse nuk është shtypur asnjë fjali (tekst) të afishohet teksti
+Nuk u shtyp asnjë fjali
+
+P.sh. Një fjali që plotëson kushtin
+Vikend me diell ne VENDIN tone
+
+Metoda testoKushtin
+
+?	Rezultati nëse një fjali e plotëson kushtin e kërkuar në pikën b) duhet të realizohet përmes metodës testoKushtin
+
+
+
+
+
+Detyra 2)
+
+3) Shkruani kodin e programit NumratTek i cili mundëson llogaritjen e shumës, mesatares dhe përqindjes së numrave të shtypur tek.
+ - Udhëzoni shfrytëzuesin të shtyp madhësinë e vargut, përderisa inputi nuk është së paku 15. (Nuk pranohet përdorimi i komandës break për terminim të unazës)
+ - Të kërkohet nga shfrytëzuesi t’i plotësoj vlerat e vargut numra me presje dhjetore 64 bit. Të merren parasysh vetëm numrat që janë në rangun -125.25 ... 125.25.
+ - Të shfaqet shuma (p.sh. 148), mesatarja (p.sh. 25.43) dhe përqindja (p.sh. 32.25%) e pjesës së plotë të numrave të shtypur tek, vlera që vijnë si rezultat nga metoda gjejNumrat e cila e pranon vargun e numrave. Output-i duhet të jetë i lexueshëm për shfrytëzuesin.
+ - Rezultati i plotë duhet të kalkulohet dhe kthehet me vetëm një thirrje të metodës gjejNumrat dhe nuk pranohet rezultati i tipit String, StringBuilder, StringBuffer apo çfarëdo forme të Stringut. Nuk pranohet as kalkulimi përmes variablave të instancës apo atyre të klasës.
