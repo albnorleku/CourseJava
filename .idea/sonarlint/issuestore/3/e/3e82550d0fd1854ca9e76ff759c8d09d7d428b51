@@ -1,0 +1,7 @@
+
+T	java:S106"9Replace this use of System.out or System.err by a logger.(Óç8şçÀš.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(øºÑûúÿÿÿÿ8ùÍ®Àš.
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¤ïàáúÿÿÿÿ
+T
+java:S1135"2Complete the task associated to this TODO comment.(û’û‰şÿÿÿÿ8Æì÷Àš.
+X	java:S125	"<This block of commented-out lines of code should be removed.(´‡ÑĞ8ì²ù›.
