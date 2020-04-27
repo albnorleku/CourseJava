@@ -1,8 +1,169 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3f1d762b-da85-4515-842b-75d32c7584e0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aoOMY1JcqZJjDNgqSHX0qeCRNd" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.gutterIcons" />
+  </component>
+  <component name="RunManager" selected="Application.UserDemo">
+    <configuration name="ExampleTwo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javaCourse.controlFlows.examples.ExampleTwo" />
+      <module name="personal" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.javaCourse.controlFlows.examples.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Operators" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javaCourse.helloWorld.Operators" />
+      <module name="personal" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.javaCourse.classes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PalindromeExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javaCourse.controlFlows.examples.PalindromeExample" />
+      <module name="personal" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.javaCourse.controlFlows.examples.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PassByValue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javaCourse.classes.PassByValue" />
+      <module name="personal" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.javaCourse.classes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javaCourse.classes.UserDemo" />
+      <module name="personal" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.javaCourse.classes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.UserDemo" />
+        <item itemvalue="Application.PassByValue" />
+        <item itemvalue="Application.Operators" />
+        <item itemvalue="Application.PalindromeExample" />
+        <item itemvalue="Application.ExampleTwo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3f1d762b-da85-4515-842b-75d32c7584e0" name="Default Changelist" comment="" />
+      <created>1587398432209</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587398432209</updated>
+      <workItem from="1587398434732" duration="6406000" />
+      <workItem from="1587583438173" duration="13516000" />
+      <workItem from="1587826302250" duration="11114000" />
+      <workItem from="1588000854334" duration="6201000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="735" y="322" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1587655958412">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="735" y="322" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040/-1920.296.1920.1040@0.0.1920.1040" timestamp="1587655958412" />
+    <state width="1877" height="310" key="GridCell.Tab.0.bottom" timestamp="1588006991474">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="201" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.165.1920.1040@0.0.1920.1040" timestamp="1587403943009" />
+    <state width="1877" height="310" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.200.1920.1040@0.0.1920.1040" timestamp="1588006991474" />
+    <state width="1877" height="250" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.296.1920.1040@0.0.1920.1040" timestamp="1587672110952" />
+    <state width="1877" height="153" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.339.1920.1040@0.0.1920.1040" timestamp="1587837759632" />
+    <state width="1877" height="201" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1587415903749" />
+    <state width="1877" height="310" key="GridCell.Tab.0.center" timestamp="1588006991473">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="201" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.165.1920.1040@0.0.1920.1040" timestamp="1587403943009" />
+    <state width="1877" height="310" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.200.1920.1040@0.0.1920.1040" timestamp="1588006991473" />
+    <state width="1877" height="250" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.296.1920.1040@0.0.1920.1040" timestamp="1587672110952" />
+    <state width="1877" height="153" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.339.1920.1040@0.0.1920.1040" timestamp="1587837759632" />
+    <state width="1877" height="201" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1587415903749" />
+    <state width="1877" height="310" key="GridCell.Tab.0.left" timestamp="1588006991473">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="201" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.165.1920.1040@0.0.1920.1040" timestamp="1587403943008" />
+    <state width="1877" height="310" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.200.1920.1040@0.0.1920.1040" timestamp="1588006991473" />
+    <state width="1877" height="250" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.296.1920.1040@0.0.1920.1040" timestamp="1587672110951" />
+    <state width="1877" height="153" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.339.1920.1040@0.0.1920.1040" timestamp="1587837759632" />
+    <state width="1877" height="201" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1587415903749" />
+    <state width="1877" height="310" key="GridCell.Tab.0.right" timestamp="1588006991473">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="201" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.165.1920.1040@0.0.1920.1040" timestamp="1587403943009" />
+    <state width="1877" height="310" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.200.1920.1040@0.0.1920.1040" timestamp="1588006991473" />
+    <state width="1877" height="250" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.296.1920.1040@0.0.1920.1040" timestamp="1587672110952" />
+    <state width="1877" height="153" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.339.1920.1040@0.0.1920.1040" timestamp="1587837759632" />
+    <state width="1877" height="201" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1587415903749" />
   </component>
 </project>
