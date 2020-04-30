@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="506a764b-5d04-40b7-a30d-2a58fd113ec5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/homework/homeWorkCourse.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/1/f16a66782ed8c15fc07acf464d847706f554ea36" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/1/f16a66782ed8c15fc07acf464d847706f554ea36" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +38,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../course-demos" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -130,7 +132,7 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="3f1d762b-da85-4515-842b-75d32c7584e0" name="Default Changelist" comment="" />
+      <changelist id="506a764b-5d04-40b7-a30d-2a58fd113ec5" name="Default Changelist" comment="" />
       <created>1587398432209</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -139,6 +141,7 @@
       <workItem from="1587583438173" duration="13516000" />
       <workItem from="1587826302250" duration="11114000" />
       <workItem from="1588000854334" duration="6201000" />
+      <workItem from="1588260135691" duration="175000" />
     </task>
     <servers />
   </component>
@@ -157,6 +160,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="735" y="322" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040/-1920.296.1920.1040@0.0.1920.1040" timestamp="1587655958412" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1588260197777">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040/-1920.223.1920.1040@0.0.1920.1040" timestamp="1588260197777" />
     <state width="1877" height="310" key="GridCell.Tab.0.bottom" timestamp="1588006991474">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

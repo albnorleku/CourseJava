@@ -25,3 +25,11 @@ h
 8src/com/javaCourse/controlFlows/examples/ExampleOne.java,1\5\15974903cb09cf187b87cde62fa98b2d8d846598
 o
 ?src/com/javaCourse/controlFlows/examples/PalindromeExample.java,6\9\690617baf1cda78fa8e9d55d8bc4c77f0b6a9615
+[
++src/com/javaCourse/classes/PassByValue.java,9\0\901bc38b6ac5cd4c6ae9be816126fa4aa2610627
+O
+src/homework/homeWorkCourse.txt,3\0\307ac3275f04da315fb5eabd24a2bd010e07523f
+T
+$src/com/javaCourse/classes/User.java,6\6\66d4f668a7480a1d247b086a7d07892752d38529
+X
+(src/com/javaCourse/classes/UserDemo.java,2\d\2d6d727f24c13ad0b89664ea3c5d63cd676878b0
